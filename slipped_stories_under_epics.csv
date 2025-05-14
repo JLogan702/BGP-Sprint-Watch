@@ -1,0 +1,16 @@
+key,summary,assignee,component,epic,times_moved,last_moved
+CLP-1067,Finalize Topic Modelling Framework for MLOps,Matthew Michal,Engineering - AI Ops,CLP-75,2,2025-05-07T17:39:53.212-0400
+CLP-787,Update Data Science Static Dataset,Aaron Medina,Engineering - AI Ops,CLP-75,2,2025-04-22T16:15:10.729-0400
+CLP-648,Resolve Sentiment Pipeline,Aaron Medina,Engineering - Product,CLP-75,1,2025-04-09T11:05:51.423-0400
+CLP-141,Create Aggregation Tables,Aaron Medina,Engineering - AI Ops,CLP-75,4,2025-04-09T11:17:14.994-0400
+CLP-140,Create Log Table for Context Area Runs,Aaron Medina,Engineering - AI Ops,CLP-75,1,2025-05-02T19:52:07.600-0400
+CLP-139,Create LLM Regex Helper PoC,Aaron Medina,Engineering - AI Ops,CLP-75,1,2025-05-02T19:50:53.657-0400
+CLP-137,Construct Config File,Aaron Medina,Engineering - Product,CLP-75,1,2025-04-09T12:23:57.418-0400
+CLP-135,DAB Deployment,Aaron Medina,Engineering - AI Ops,CLP-75,2,2025-04-25T10:44:34.370-0400
+CLP-132,Explore Data Relevancy Logic,Aaron Medina,Engineering - Product,CLP-75,1,2025-04-09T11:04:12.259-0400
+CLP-131,Modularize & Package PoC Notebook Code,Aaron Medina,Engineering - AI Ops,CLP-75,4,2025-04-09T11:06:58.995-0400
+CLP-1072,Create Mock Data for the Resonance Function,Utsav Vachhani,Engineering - AI Ops,CLP-112,3,2025-05-07T16:55:03.591-0400
+CLP-870,Integrate Resonance Score into Context Area,Aaron Medina,Engineering - AI Ops,CLP-112,1,2025-05-02T20:54:47.916-0400
+CLP-820,Production Integration Support,Zihao Wang,Data Science,CLP-112,1,2025-05-07T17:38:58.764-0400
+CLP-818,Model Data for Schema Expectations,Utsav Vachhani,Engineering - AI Ops,CLP-112,5,2025-04-25T10:48:22.066-0400
+CLP-516,Create Resonance API Routes,Josh McNiff,Engineering - Product,CLP-112,1,2025-04-09T12:23:57.396-0400

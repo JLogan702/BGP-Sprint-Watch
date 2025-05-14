@@ -1,0 +1,6 @@
+
+
+---
+Explanation: This report maps issue-to-issue dependencies across the CLP project.
+Only non-Done issues are included. Dependencies include 'blocks' and 'is blocked by' links.
+Used to identify chain-of-blockage and cross-team blockers.

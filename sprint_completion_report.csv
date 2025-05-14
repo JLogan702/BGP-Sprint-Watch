@@ -1,0 +1,12 @@
+Team,Planned Points,Completed Points,Completion %
+Data Science,43.0,43.0,100.0
+Design,0.0,0.0,0.0
+Engineering,0.0,0.0,0.0
+
+
+---
+Explanation:
+Only includes stories committed at sprint start and not removed or slipped to future sprints.
+• Slipped stories were excluded using `sprint_watchdog_filtered_slips.csv`
+• Completion % = (Completed Story Points / Planned) * 100
+• This version prints debug info to help validate filtering logic.

@@ -1,0 +1,228 @@
+key,summary,component,times_moved,last_moved,epic,from_sprint,to_sprint
+CLP-741,UI: Integrate with Resonance API for loading company/product resonance,Engineering - Product,14,2025-04-17T08:44:46.602-0400,CLP-729,,MarTech Eng Sprint4: 4/23-5/ 7
+CLP-952,Gnip Historical Data Backfill,Engineering - Platform,13,2025-04-21T11:17:10.850-0400,CLP-1068,,PLAT/OPS ENG 4/9 - 4/23
+CLP-881,UI Business Logic: Audience Details Modal,Engineering - Product,11,2025-05-06T14:11:52.189-0400,CLP-636,,MarTech Eng Sprnt 6: 5/21 -6/4
+CLP-880,UI Business Logic: Topic Details Modal ,Engineering - Product,11,2025-05-06T14:11:52.177-0400,CLP-636,,MarTech Eng Sprnt 6: 5/21 -6/4
+CLP-96,"Hosting, CDN, Domains",Engineering - Product,10,2025-05-05T11:41:49.159-0400,CLP-565,Eng 2/12 - 2/26,
+CLP-885,"UI: Strategies page section 4: ""Emotional Drivers and Audience Groups""",Engineering - Product,9,2025-05-07T08:09:42.264-0400,CLP-729,,MarTech Eng Sprnt 6: 5/21 -6/4
+CLP-743,UI: Create Strategy Action,Engineering - Product,9,2025-05-07T09:12:11.820-0400,CLP-636,,MarTech Eng Sprnt 6: 5/21 -6/4
+CLP-753,API: Communities: Implement business logic for endpoint loading communities data for company,Engineering - Product,9,2025-05-07T09:14:18.692-0400,CLP-636,,MarTech Eng Sprnt 6: 5/21 -6/4
+CLP-883,"UI: Strategies page section 2: ""Resonance Score""",Engineering - Product,9,2025-05-07T08:09:42.242-0400,CLP-729,,MarTech Eng Sprnt 6: 5/21 -6/4
+CLP-884,"UI: Strategies page section 3: ""Playbook Recommendations""",Engineering - Product,9,2025-05-07T08:09:42.239-0400,CLP-729,,MarTech Eng Sprnt 6: 5/21 -6/4
+CLP-925,"Update Get Topics endpoint to be based on product brand, update mock data",Engineering - Product,9,2025-05-07T08:39:12.300-0400,CLP-636,,MarTech Eng Sprnt 6: 5/21 -6/4
+CLP-751,API: Topics: Implement business logic for loading Topics for company,Engineering - Product,9,2025-05-07T09:14:18.693-0400,CLP-636,,MarTech Eng Sprnt 6: 5/21 -6/4
+CLP-898,Business Logic: CPC table,Engineering - Product,9,2025-05-07T09:12:40.338-0400,CLP-730,,MarTech Eng Sprnt 6: 5/21 -6/4
+CLP-887,UI: Cost Per Mille (CPM) Table,Engineering - Product,9,2025-05-07T08:09:42.265-0400,CLP-730,,MarTech Eng Sprnt 6: 5/21 -6/4
+CLP-897,Business Logic: CPM table,Engineering - Product,9,2025-05-07T09:12:40.338-0400,CLP-730,,MarTech Eng Sprnt 6: 5/21 -6/4
+CLP-882,"UI: Strategies page section 1: ""what you selected""",Engineering - Product,9,2025-05-07T08:09:42.269-0400,CLP-729,,MarTech Eng Sprnt 6: 5/21 -6/4
+CLP-888,UI: Cost Per Click (CPC),Engineering - Product,9,2025-05-07T08:09:42.242-0400,CLP-730,,MarTech Eng Sprnt 6: 5/21 -6/4
+CLP-901,"Business Logic: Strategies page section 2: ""Resonance Score""",Engineering - Product,9,2025-05-07T09:12:40.339-0400,CLP-729,,MarTech Eng Sprnt 6: 5/21 -6/4
+CLP-926,"Update Get Audiences endpoint to be based on product brand, update mock data",Engineering - Product,9,2025-05-07T08:39:12.299-0400,CLP-636,,MarTech Eng Sprnt 6: 5/21 -6/4
+CLP-900,"Business Logic: Strategies page section 1: ""what you selected""",Engineering - Product,9,2025-05-07T09:12:40.319-0400,CLP-729,,MarTech Eng Sprnt 6: 5/21 -6/4
+CLP-943,Handle Org email treatment,Engineering - Product,8,2025-05-07T09:46:17.825-0400,CLP-771,,MarTech Eng Sprnt 6: 5/21 -6/4
+CLP-915,Internal org id as keys in DB,Engineering - Product,8,2025-05-07T08:28:59.266-0400,CLP-920,MarTech Eng Sprnt: 5 5/7 -5/21,MarTech Eng Sprnt 6: 5/21 -6/4
+CLP-917,Internal user id as keys in DB,Engineering - Product,8,2025-05-07T08:29:01.498-0400,CLP-920,MarTech Eng Sprnt: 5 5/7 -5/21,MarTech Eng Sprnt 6: 5/21 -6/4
+CLP-928,"For P0, limit Company/Product Brand creation to 1 per org",Engineering - Product,8,2025-05-07T08:47:02.795-0400,CLP-771,,MarTech Eng Sprnt 6: 5/21 -6/4
+CLP-886,UI: Download Strategy PDF,Engineering - Product,8,2025-05-07T08:09:42.242-0400,CLP-729,,MarTech Eng Sprnt 6: 5/21 -6/4
+CLP-749,API: POST /strategy endpoint for creating a new strategy,Engineering - Product,8,2025-05-07T09:11:57.936-0400,CLP-636,,MarTech Eng Sprnt 6: 5/21 -6/4
+CLP-969,MarTech system design front/backend documentation,Engineering - Platform,8,2025-04-28T11:19:34.237-0400,CLP-1065,,PLAT/ML OPS ENG 4/23 - 5/7
+CLP-927,UI: Determine single company/product brand for selected org,Engineering - Product,8,2025-05-07T08:40:46.883-0400,CLP-636,,MarTech Eng Sprnt 6: 5/21 -6/4
+CLP-955,Complete QA: metabase_social_nlp_metrics,Engineering - Platform,7,2025-04-09T11:20:43.657-0400,CLP-1065,,ENG 2/26- 3/12
+CLP-963,NLP Metrics - correct results vs. EP pipeline,Engineering - Platform,7,2025-05-07T11:05:28.528-0400,CLP-1065,PLAT/ML OPS ENG 4/23 - 5/7,"PLAT/ML OPS ENG 4/23 - 5/7, PLAT/ML OPS ENG 4/23 - 5/8"
+CLP-956,Promote author info to separate table,Product,7,2025-05-07T11:05:25.976-0400,CLP-14,PLAT/ML OPS ENG 4/23 - 5/7,"PLAT/ML OPS ENG 4/23 - 5/7, PLAT/ML OPS ENG 4/23 - 5/8"
+CLP-966,Create serverless budget policy for managing model serving endpoints,Engineering - Platform,7,2025-04-24T12:12:20.253-0400,CLP-1065,,PLAT/ML OPS ENG 4/23 - 5/7
+CLP-957,nlp_metrics - adult_content_score,Engineering - Platform,7,2025-04-09T11:20:44.822-0400,CLP-1065,,ENG 3/12- 3/26
+CLP-961,FlightRadar project replication,Engineering - Platform,7,2025-04-09T11:20:46.341-0400,CLP-1065,,PLAT/OPS ENG 3/26 - 4/9
+CLP-962,GCS - update permissions and add audit tracking to stg & prd buckets,Engineering - Platform,6,2025-05-07T11:05:28.751-0400,CLP-1065,PLAT/ML OPS ENG 4/23 - 5/7,"PLAT/ML OPS ENG 4/23 - 5/7, PLAT/ML OPS ENG 4/23 - 5/8"
+CLP-959,nlp_metrics: Evaluate adult_content_score processing,Engineering - Platform,6,2025-05-07T11:05:28.506-0400,CLP-1065,PLAT/ML OPS ENG 4/23 - 5/7,"PLAT/ML OPS ENG 4/23 - 5/7, PLAT/ML OPS ENG 4/23 - 5/8"
+CLP-968,Handle Duplicates in Databricks Pipeline,Engineering - Platform,6,2025-04-14T15:33:14.043-0400,CLP-1065,,PLAT/OPS ENG 4/9 - 4/23
+CLP-951,Spike: Create policy on ai model serving endpoints to enforce required tags,Engineering - Platform,6,2025-05-07T11:05:28.493-0400,CLP-1068,PLAT/ML OPS ENG 4/23 - 5/7,"PLAT/ML OPS ENG 4/23 - 5/7, PLAT/ML OPS ENG 4/23 - 5/8"
+CLP-849,Model Data for Aggregate Backend,"Data Science, Engineering - AI Ops",6,2025-05-05T13:25:40.939-0400,CLP-770,AIOps Sprint 5: 5/7 - 5/21,Data Sprint 5: 5/7 - 5/21
+CLP-524,Create Product Brand UI screens,Engineering - Product,6,2025-04-09T12:23:57.399-0400,CLP-771,,Engineer Sprint 2: 3/26 - 4/9
+CLP-514,"Terraform for Auth0 Tenant, SPA, API, Roles & Permissions",Engineering - Product,6,2025-04-09T12:23:57.433-0400,CLP-565,,Engineer Sprint 1: 3/12 - 3/26
+CLP-965,Investigate VPN alternatives,Engineering - IT Ops,6,2025-04-09T11:20:43.664-0400,,,Engineer 8/21 - 9/4
+CLP-971,Create tf for SQL warehouses and add proper tagging for billing,Engineering - Platform,6,2025-05-07T11:05:28.670-0400,CLP-1065,PLAT/ML OPS ENG 4/23 - 5/7,"PLAT/ML OPS ENG 4/23 - 5/7, PLAT/ML OPS ENG 4/23 - 5/8"
+CLP-818,Model Data for Schema Expectations,Engineering - AI Ops,5,2025-04-25T10:48:22.066-0400,CLP-112,,AIOps Sprint 5: 5/7 - 5/21
+CLP-638,Identify authors - Restructure SQL queries to aggregate authors,Engineering - AI Ops,5,2025-04-09T11:02:30.946-0400,CLP-14,,MarTech Eng Sprint3 4/9 - 4/23
+CLP-856,Business Logic:  Home Page Audiences column,Engineering - Product,5,2025-05-06T14:11:52.196-0400,CLP-636,,MarTech Eng Sprnt 6: 5/21 -6/4
+CLP-953,Create a process to identify and backfill missing emotion_analysis rows for backfilled content,Engineering - Platform,5,2025-05-07T11:31:46.180-0400,CLP-1065,,PLAT/ML OPS ENG 5/7-5/21
+CLP-858,"Placeholder:   Home Page ""Context Area Topics"" Title and Context (TBD)",Engineering - Product,5,2025-05-06T14:11:52.188-0400,CLP-636,,MarTech Eng Sprnt 6: 5/21 -6/4
+CLP-860,Placeholder:   Home Page Carousel Title and Context (TBD),Engineering - Product,5,2025-05-06T14:11:52.201-0400,CLP-636,,MarTech Eng Sprnt 6: 5/21 -6/4
+CLP-861,Placeholder:   Home Page Title and Context (TBD),Engineering - Product,5,2025-05-06T14:11:52.201-0400,CLP-636,,MarTech Eng Sprnt 6: 5/21 -6/4
+CLP-857,"Placeholder:   Home Page ""Audience"" Group Title and Context (TBD)",Engineering - Product,5,2025-05-06T14:11:52.174-0400,CLP-636,,MarTech Eng Sprnt 6: 5/21 -6/4
+CLP-954,Reddit Compliance - implement proof of concept for edits in the streaming tables,Engineering - Platform,5,2025-04-23T12:50:33.725-0400,CLP-1065,PLAT/OPS ENG 4/9 - 4/23,"PLAT/OPS ENG 4/9 - 4/23, PLAT/OPS ENG 4/9 - 4/24"
+CLP-958,clarvos-dbx-dev - need to move our dashboards from old dev to new dev system,Engineering - Platform,5,2025-04-23T12:50:33.705-0400,CLP-1065,PLAT/OPS ENG 4/9 - 4/23,"PLAT/OPS ENG 4/9 - 4/23, PLAT/OPS ENG 4/9 - 4/24"
+CLP-964,Move metabase ingestors from e24-prd-processing-k8s-1 to e24-prd-ep-ingest-cluster-gke,Engineering - Platform,5,2025-04-23T12:50:33.710-0400,CLP-1065,PLAT/OPS ENG 4/9 - 4/23,"PLAT/OPS ENG 4/9 - 4/23, PLAT/OPS ENG 4/9 - 4/24"
+CLP-845,API: Apply SQL migrations from the app,Engineering - Product,5,2025-05-05T11:49:26.505-0400,CLP-565,,MarTech Eng Sprnt: 5 5/7 -5/21
+CLP-950,Create process to identify and backfill missing cleansed_text rows for backfilled content,Engineering - Platform,5,2025-05-07T11:31:42.738-0400,CLP-1065,,PLAT/ML OPS ENG 5/7-5/21
+CLP-896,Business Logic: Placeholder - Topics subpage,Engineering - Product,4,2025-05-07T08:11:58.510-0400,CLP-781,,MarTech Eng Sprnt 7: 6/4 -6/18
+CLP-893,UI: Explore page -Topics section,Engineering - Product,4,2025-05-07T08:11:58.539-0400,CLP-781,,MarTech Eng Sprnt 7: 6/4 -6/18
+CLP-890,"UI: Explore main page- Resonance, Audiences, Topics",Engineering - Product,4,2025-05-07T08:11:58.510-0400,CLP-781,,MarTech Eng Sprnt 7: 6/4 -6/18
+CLP-639,Identify authors - Recreate qualifying author step,Engineering - AI Ops,4,2025-04-09T11:07:53.358-0400,CLP-14,,MarTech Eng Sprint4: 4/23-5/ 7
+CLP-894,Business Logic: Placeholder - Resonance subpage,Engineering - Product,4,2025-05-07T08:11:58.532-0400,CLP-781,,MarTech Eng Sprnt 7: 6/4 -6/18
+CLP-640,Identify authors - Consolidate author data,Engineering - AI Ops,4,2025-04-09T11:08:55.514-0400,CLP-14,,MarTech Eng Sprint4: 4/23-5/ 7
+CLP-141,Create Aggregation Tables,Engineering - AI Ops,4,2025-04-09T11:17:14.994-0400,CLP-75,,MarTech Eng Sprint4: 4/23-5/ 7
+CLP-891,UI: Explore Page- Resonance section,Engineering - Product,4,2025-05-07T08:11:58.529-0400,CLP-781,,MarTech Eng Sprnt 7: 6/4 -6/18
+CLP-800,Identify Missing Emotion Data,"Engineering - AI Ops, Engineering - Platform",4,2025-04-24T18:08:00.918-0400,CLP-113,,AIOps Sprint 4: 4/24-5/7
+CLP-863,Refresh carousel of topics at 6am EST,Engineering - Product,4,2025-05-07T09:09:39.017-0400,CLP-636,,MarTech Eng Sprnt 7: 6/4 -6/18
+CLP-892,UI: Explore Page - Audience section,Engineering - Product,4,2025-05-07T08:11:58.530-0400,CLP-781,,MarTech Eng Sprnt 7: 6/4 -6/18
+CLP-515,Serve UI from Bucket,Engineering - Product,4,2025-04-09T12:23:57.397-0400,CLP-565,,Engineer Sprint 2: 3/26 - 4/9
+CLP-131,Modularize & Package PoC Notebook Code,Engineering - AI Ops,4,2025-04-09T11:06:58.995-0400,CLP-75,,MarTech Eng Sprint4: 4/23-5/ 7
+CLP-682,Place Component - prompt engineering on the Llama models in Resonance analyzer,Data Science,4,2025-04-11T13:52:18.088-0400,CLP-116,,Data Sprint 3: 4/9 - 4/23
+CLP-960,Setup a Cloud SQL for SaaS product in Cluster + Airflow Connections,Engineering - Platform,4,2025-04-09T11:20:43.664-0400,,Engineer 8/21 - 9/4,"Engineer 8/21 - 9/4, Engineer 8/21 - 9/5"
+CLP-681,Price Component - prompt engineering on the Llama models in Resonance analyzer,Data Science,4,2025-04-11T13:49:57.546-0400,CLP-116,,Data Sprint 3: 4/9 - 4/23
+CLP-231,Topic intrusion,Data Science,4,2025-04-17T11:33:42.126-0400,CLP-1071,,Data Sprint 1: 3/12 - 3/26
+CLP-52,Community Grps refreshed minimally every 30 days,"Data Science, Product",4,2025-04-10T13:37:38.983-0400,CLP-1071,,Data Sprint 1: 3/12 - 3/26
+CLP-683,Promotion Component - prompt engineering on the Llama models in Resonance analyzer,Data Science,4,2025-04-11T13:53:16.210-0400,CLP-116,,Data Sprint 3: 4/9 - 4/23
+CLP-659,Design the Strategies View for new generated strategies,Design,4,2025-04-10T11:19:39.933-0400,CLP-729,,Design Sprint 3: 4/9 - 4/23
+CLP-760,Design and implement persistence mechanism for recommendations.,Data Science,3,2025-04-22T09:57:56.210-0400,CLP-116,,Data Sprint 4: 4/23 - 5/7
+CLP-855,Business Logic: Home Page Carousel - chips and buttons,Engineering - Product,3,2025-05-06T14:11:52.176-0400,CLP-636,,MarTech Eng Sprnt 6: 5/21 -6/4
+CLP-854,UI Business Logic: Home Page Carousel - scrolling and ordering,Engineering - Product,3,2025-05-06T14:11:52.201-0400,CLP-636,,MarTech Eng Sprnt 6: 5/21 -6/4
+CLP-211,Refactor labeling so that it takes in the global config and only needs to iterate through our single table using all of the clients/themes/dates.,Data Science,3,2025-04-09T20:17:53.940-0400,CLP-485,,Data Sprint 1: 3/12 - 3/26
+CLP-49,Intensity and Magnitude of Emotion,Data Science,3,2025-04-09T20:17:53.930-0400,CLP-352,,Data Sprint 1: 3/12 - 3/26
+CLP-213,"Sync all components , Daily Historical Feeds, Regex tables, clustering",Data Science,3,2025-04-09T20:17:53.939-0400,CLP-485,,Data Sprint 1: 3/12 - 3/26
+CLP-48,Understanding Emotional Drivers,Data Science,3,2025-04-09T20:17:53.856-0400,CLP-352,,Data Sprint 1: 3/12 - 3/26
+CLP-764,Finalize model selection for production use,Data Science,3,2025-04-22T13:00:27.289-0400,CLP-116,,Data Sprint 4: 4/23 - 5/7
+CLP-214,Restructure the “run all” bigquery job to be generalizable to all themes/clients in the monitoring backend table so that it adds in the corresponding “terminology” array to prepare for clustering,Data Science,3,2025-04-09T20:17:53.853-0400,CLP-485,,Data Sprint 1: 3/12 - 3/26
+CLP-842,Create Aggregation Gold Table,"Data Science, Engineering - AI Ops",3,2025-04-24T18:03:37.907-0400,CLP-14,,AIOps Sprint 4: 4/24-5/7
+CLP-523,Emotion Data available to MarTech App,Engineering - AI Ops,3,2025-04-09T12:23:57.402-0400,CLP-113,,Engineer Sprint 2: 3/26 - 4/9
+CLP-645,DBX Full Psychographics - Cluster Authors,Data Science,3,2025-04-09T10:14:43.988-0400,CLP-85,,Data Sprint 3: 4/9 - 4/23
+CLP-738,UI: Build a Strategy section,Engineering - Product,3,2025-04-17T08:31:35.145-0400,CLP-636,,MarTech Eng Sprint4: 4/23-5/ 7
+CLP-759,Implement local fine-tuned LLM (Llama 3.2 basis) for recommendations testing,Data Science,3,2025-04-22T09:56:01.339-0400,CLP-116,,MarTech Eng Sprint4: 4/23-5/ 7
+CLP-216,Refactor clustering so that it takes in the global config and only needs to iterate through our single table using all of the clients/themes/dates,Data Science,3,2025-04-09T20:17:53.845-0400,CLP-485,,Data Sprint 1: 3/12 - 3/26
+CLP-879,UI: Audience Details Modal,Engineering - Product,3,2025-05-06T14:11:52.189-0400,CLP-636,,MarTech Eng Sprnt 6: 5/21 -6/4
+CLP-914,Internal org id in request/response,Engineering - Product,3,2025-05-06T11:54:56.514-0400,CLP-920,MarTech Eng Sprnt: 5 5/7 -5/21,MarTech Eng Sprint4: 4/23-5/ 7
+CLP-873,UI:  Carousel ,Engineering - Product,3,2025-05-06T14:17:02.643-0400,CLP-636,,MarTech Eng Sprnt 6: 5/21 -6/4
+CLP-1072,Create Mock Data for the Resonance Function,Engineering - AI Ops,3,2025-05-07T16:55:03.591-0400,CLP-112,,Data Sprint 5: 5/7 - 5/21
+CLP-757,Formalize recommendation prompt template for OpenAI with manual testing,Data Science,3,2025-04-22T09:50:30.733-0400,CLP-116,,MarTech Eng Sprint4: 4/23-5/ 7
+CLP-874,UI:  Audiences,Engineering - Product,3,2025-05-06T14:11:52.179-0400,CLP-636,,MarTech Eng Sprnt 6: 5/21 -6/4
+CLP-814,Model Data for Backend DB,"Engineering - AI Ops, Engineering - Platform",3,2025-04-24T18:03:13.768-0400,CLP-113,,AIOps Sprint 4: 4/24-5/7
+CLP-794,Integrate Cluster Models,Engineering - AI Ops,2,2025-05-02T19:51:47.690-0400,CLP-14,,AIOps Sprint 5: 5/7 - 5/21
+CLP-1041,Complete QA: reddit_post_nlp_metrics,Engineering - Platform,2,2025-04-09T11:20:43.686-0400,CLP-1065,,ENG 2/26- 3/12
+CLP-755,Design the flow for Account Creation / Onboarding Flow,Design,2,2025-04-23T12:42:00.776-0400,CLP-77,,Design Sprint 4: 4/23 - 5/7
+CLP-756,Design the screen a user is presented with post-onboarding and pre-data configuration,Design,2,2025-04-23T12:43:15.168-0400,CLP-77,,Design Sprint 4: 4/23 - 5/7
+CLP-660,Strategy Collection Page,Design,2,2025-04-10T11:19:10.906-0400,CLP-730,,Design Sprint 3: 4/9 - 4/23
+CLP-761,Formalize recommendation system prompt template and hyperparameters for OpenAI,Data Science,2,2025-04-22T11:58:31.415-0400,CLP-116,,Data Sprint 4: 4/23 - 5/7
+CLP-735,UI: Topics carousel,Engineering - Product,2,2025-04-17T08:31:22.172-0400,CLP-636,,MarTech Eng Sprint4: 4/23-5/ 7
+CLP-862,Site Skeleton,Engineering - Product,2,2025-05-06T09:56:55.126-0400,CLP-636,,MarTech Eng Sprnt: 5 5/7 -5/21
+CLP-841,API: Refactor classes by module,Engineering - Product,2,2025-04-24T12:39:26.981-0400,CLP-565,,MarTech Eng Sprnt: 5 5/7 -5/21
+CLP-734,UI: Home Page top-level skeleton,Engineering - Product,2,2025-04-17T08:31:13.629-0400,CLP-636,,MarTech Eng Sprint4: 4/23-5/ 7
+CLP-787,Update Data Science Static Dataset,Engineering - AI Ops,2,2025-04-22T16:15:10.729-0400,CLP-75,,MarTech Eng Sprint4: 4/23-5/ 7
+CLP-872,Create Deployment DAB for UMAP model,Engineering - AI Ops,2,2025-05-02T22:05:55.222-0400,CLP-14,,AIOps Sprint 4: 4/24-5/7
+CLP-924,Ensure migrations are well-organized and can be run from application repo,Engineering - Product,2,2025-05-07T08:33:05.422-0400,CLP-565,,MarTech Eng Sprnt: 5 5/7 -5/21
+CLP-942,Design System: Component creation Homepage,Design,2,2025-05-07T09:45:26.869-0400,CLP-636,,Design Sprint 5:  5/7 - 5/21
+CLP-869,Integrate into Context Area,Engineering - AI Ops,2,2025-05-02T19:40:54.619-0400,CLP-770,,AIOps Sprint 5: 5/7 - 5/21
+CLP-1067,Finalize Topic Modelling Framework for MLOps,Engineering - AI Ops,2,2025-05-07T17:39:53.212-0400,CLP-75,Data Sprint 5: 5/7 - 5/21,AIOps Sprint 5: 5/7 - 5/21
+CLP-867,Transition Topic Model to Ops,Engineering - AI Ops,2,2025-05-02T19:28:24.559-0400,CLP-770,,AIOps Sprint 5: 5/7 - 5/21
+CLP-827,Design the loading/generation page for the strategies,Design,2,2025-04-23T11:56:53.087-0400,CLP-729,,Design Sprint 4: 4/23 - 5/7
+CLP-876,UI: Strategy Builder,Engineering - Product,2,2025-05-06T09:42:14.333-0400,CLP-636,,MarTech Eng Sprnt: 5 5/7 -5/21
+CLP-1087,"Migrate the Cloud SQL database in ""dev"" to a larger machine type",Engineering - Product,2,2025-05-09T13:27:47.234-0400,CLP-565,,Eng-Prod Sprint 6: 5/21 - 6/4
+CLP-875,UI:  Header and Subheader below the carousel,Engineering - Product,2,2025-05-06T09:22:29.286-0400,CLP-636,,MarTech Eng Sprnt: 5 5/7 -5/21
+CLP-878,UI: Context Area Topics Modal,Engineering - Product,2,2025-05-06T09:31:20.033-0400,CLP-636,,MarTech Eng Sprnt: 5 5/7 -5/21
+CLP-923,Ensure back end documentation is up-to-date,Engineering - Product,2,2025-05-07T08:27:59.325-0400,CLP-920,,MarTech Eng Sprnt: 5 5/7 -5/21
+CLP-722,UI: Implement relating Product Brand to Competitor Product Brand,Engineering - Product,2,2025-05-07T10:45:46.817-0400,CLP-771,MarTech Eng Sprint4: 4/23-5/ 7,"MarTech Eng Sprint4: 4/23-5/ 7, MarTech Eng Sprnt: 5 5/7 -5/21"
+CLP-932,UI: Pass internal org id in request/response,Engineering - Product,2,2025-05-07T09:25:32.995-0400,CLP-920,,MarTech Eng Sprnt: 5 5/7 -5/21
+CLP-1089,UI: Strategy Generation progress bar,Engineering - Product,2,2025-05-12T08:50:21.667-0400,CLP-729,,Eng-Prod Sprint 6: 5/21 - 6/4
+CLP-851, API: Topics Data Integration for Homepage Carousel,Engineering - Product,2,2025-05-09T07:52:48.167-0400,CLP-636,,Eng-Prod Sprint 6: 5/21 - 6/4
+CLP-852,API: Reach Calculation and Audience Deduplication,Engineering - Product,2,2025-05-09T07:52:58.975-0400,CLP-636,,Eng-Prod Sprint 6: 5/21 - 6/4
+CLP-793,Register Both Cluster Models with MLflow,"Data Science, Engineering - AI Ops",2,2025-04-25T10:47:10.833-0400,CLP-14,,AIOps Sprint 5: 5/7 - 5/21
+CLP-1088,Calendar limits user to selecting date from next 31 days,Engineering - Product,2,2025-05-12T08:45:32.867-0400,CLP-636,,Eng-Prod Sprint 6: 5/21 - 6/4
+CLP-1090,Factor out reusable AudienceTable component using PaginatedTable,Engineering - Product,2,2025-05-12T08:54:18.219-0400,CLP-636,,Eng-Prod Sprint 6: 5/21 - 6/4
+CLP-135,DAB Deployment,Engineering - AI Ops,2,2025-04-25T10:44:34.370-0400,CLP-75,,AIOps Sprint 5: 5/7 - 5/21
+CLP-713,Service: Implement relating Product Brand to Competitor Product Brand,Engineering - Product,2,2025-04-15T09:53:37.187-0400,CLP-771,MarTech Eng Sprint4: 4/23-5/ 7,MarTech Eng Sprint3 4/9 - 4/23
+CLP-762,Formalize recommendation system prompt template and hyperparameters for local LLM ,Data Science,2,2025-04-22T11:59:09.204-0400,CLP-116,,Data Sprint 4: 4/23 - 5/7
+CLP-624,Integrate Business Logic to Populate Subsc and Inv Tables,Engineering - Product,2,2025-04-09T12:23:57.400-0400,CLP-111,MarTech Eng Sprint2: 3/26-4/9,"MarTech Eng Sprint2: 3/26-4/9, MarTech Eng Sprint3 4/9 - 4/23"
+CLP-846,API: Implement chosen standards for Datetime,Engineering - Product,2,2025-04-29T17:25:55.229-0400,CLP-565,,MarTech Eng Sprnt: 5 5/7 -5/21
+CLP-709,Service: Save user's notification preferences,Engineering - Product,2,2025-04-14T11:34:34.218-0400,CLP-111,MarTech Eng Sprint4: 4/23-5/ 7,MarTech Eng Sprint3 4/9 - 4/23
+CLP-503,Psychographics new idea exploration,Data Science,2,2025-04-21T10:37:45.198-0400,CLP-767,,Data Sprint 3: 4/9 - 4/23
+CLP-758,Formalize recommendation prompt template for fine-tuned LLM (Llama 3.2 based),Data Science,2,2025-04-22T09:54:21.301-0400,CLP-116,,Data Sprint 4: 4/23 - 5/7
+CLP-665,UI: Save user's notification preferences,Engineering - Product,2,2025-04-14T11:34:29.722-0400,CLP-111,MarTech Eng Sprint4: 4/23-5/ 7,MarTech Eng Sprint3 4/9 - 4/23
+CLP-737,UI: Communities section,Engineering - Product,2,2025-04-17T08:31:33.285-0400,CLP-636,,MarTech Eng Sprint4: 4/23-5/ 7
+CLP-1021,QA: Smoke test March 2025 in prod minus NLP metrics,Engineering - Platform,2,2025-04-09T11:20:44.987-0400,CLP-1065,,PLAT/OPS ENG 3/26 - 4/9
+CLP-1016,Databricks Alerting,Engineering - Platform,2,2025-04-14T11:10:14.946-0400,CLP-1065,,PLAT/OPS ENG 4/9 - 4/23
+CLP-921,UI: Account for updated API endpoint paths,Engineering - Product,2,2025-05-07T08:06:59.311-0400,CLP-920,,MarTech Eng Sprnt: 5 5/7 -5/21
+CLP-647,DBX Full Psychographics - Assemble Results,Data Science,2,2025-04-09T10:14:55.723-0400,CLP-85,,Data Sprint 3: 4/9 - 4/23
+CLP-790,Package UMAP model with MLflow,"Data Science, Engineering - AI Ops",2,2025-04-22T18:38:23.382-0400,CLP-14,,MarTech Eng Sprint4: 4/23-5/ 7
+CLP-646,DBX Full Psychographics - Name Author Clusters,Data Science,2,2025-04-09T10:14:48.753-0400,CLP-85,,Data Sprint 3: 4/9 - 4/23
+CLP-789,Embeddings and UMAP Reduction,Engineering - AI Ops,2,2025-04-22T18:33:58.820-0400,CLP-14,,MarTech Eng Sprint4: 4/23-5/ 7
+CLP-868,Create DAB to Deploy Model,Engineering - AI Ops,2,2025-05-02T19:45:28.458-0400,CLP-770,,AIOps Sprint 5: 5/7 - 5/21
+CLP-1033,Set default table data retention to 30 days up from 7 days,Engineering - Platform,2,2025-04-21T11:36:54.196-0400,CLP-1065,,PLAT/OPS ENG 4/9 - 4/23
+CLP-1025,Remove unused BQ tables,Engineering - Platform,2,2025-04-09T11:20:44.839-0400,CLP-1065,,ENG 3/12- 3/26
+CLP-1028,QA: nlp_metrics fix in Dev,Engineering - Platform,2,2025-04-09T11:20:46.322-0400,CLP-1065,,PLAT/OPS ENG 3/26 - 4/9
+CLP-739,UI: Add Nav and Page for Strategies,Engineering - Product,2,2025-04-17T08:31:37.598-0400,CLP-636,,MarTech Eng Sprint4: 4/23-5/ 7
+CLP-625,Add Custom Annotation for routes to enable Organization Selection for Clv Admins,Engineering - Product,2,2025-04-09T12:23:57.396-0400,CLP-622,MarTech Eng Sprint2: 3/26-4/9,"MarTech Eng Sprint2: 3/26-4/9, MarTech Eng Sprint3 4/9 - 4/23"
+CLP-510,TOS+Disclosures Data Storage & Management,Engineering - Product,2,2025-05-07T09:14:40.401-0400,CLP-565,,MarTech Eng Sprnt 8: 6/18 -7/2
+CLP-922,UI: pass internal user id in request/response,Engineering - Product,2,2025-05-07T08:06:59.329-0400,CLP-920,,MarTech Eng Sprnt: 5 5/7 -5/21
+CLP-507,Add TOS and Disclosures to Registration Flow,Engineering - Product,2,2025-05-07T09:14:37.968-0400,CLP-5,,MarTech Eng Sprnt 8: 6/18 -7/2
+CLP-724,Ability to deploy main (or a branch) to a new staging environment on-demand,Engineering - Product,2,2025-04-30T10:46:09.965-0400,CLP-565,MarTech Eng Sprint4: 4/23-5/ 7,MarTech Eng Sprnt: 5 5/7 -5/21
+CLP-933,Design: Compile list of associated Emojis for both Audience and Topic level,Design,1,2025-05-07T09:36:24.076-0400,CLP-636,,Design Sprint 5:  5/7 - 5/21
+CLP-916,Internal user id in request/response,Engineering - Product,1,2025-05-07T17:19:02.839-0400,CLP-920,MarTech Eng Sprnt: 5 5/7 -5/21,Eng-Prod Sprint 5: 5/7 - 5/21
+CLP-1070,Create views for application level queries,Engineering - Platform,1,2025-05-08T13:56:34.533-0400,CLP-1068,,Eng-PLAT Sprint 5: 5/7-5/21
+CLP-907,Update API endpoint paths to match convention,Engineering - Product,1,2025-05-07T17:19:01.885-0400,CLP-920,MarTech Eng Sprnt: 5 5/7 -5/21,Eng-Prod Sprint 5: 5/7 - 5/21
+CLP-809,Assess Model Output Failure Rate,Data Science,1,2025-04-23T10:20:40.366-0400,CLP-351,,Data Sprint 4: 4/23 - 5/7
+CLP-1017,Data Quality Monitoring,Engineering - Platform,1,2025-05-08T13:55:54.986-0400,CLP-1065,,Eng-PLAT Sprint 5: 5/7-5/21
+CLP-938,PRD/DES Workshop prep for Adtech onsite June 3 & 4,Design,1,2025-05-07T09:41:06.731-0400,CLP-836,,Design Sprint 5:  5/7 - 5/21
+CLP-1077,Innovation Competitive Analysis Research,,1,2025-05-08T10:22:25.141-0400,CLP-836,,Design Sprint 5:  5/7 - 5/21
+CLP-909,Update API endpoint paths to match convention,Engineering - Product,1,2025-05-07T17:19:02.363-0400,CLP-920,MarTech Eng Sprnt: 5 5/7 -5/21,Eng-Prod Sprint 5: 5/7 - 5/21
+CLP-1076,Adtech Prototype for onsite June 3 & 4,Design,1,2025-05-08T10:20:03.527-0400,CLP-836,,Design Sprint 5:  5/7 - 5/21
+CLP-1091,Add placeholder/skeleton for strategy details while strategy is generating,Engineering - Product,1,2025-05-12T10:16:55.539-0400,CLP-729,,Eng-Prod Sprint 6: 5/21 - 6/4
+CLP-747,API: Implement CommunityGroups API providing mock data for one company,Engineering - Product,1,2025-04-17T08:44:46.601-0400,CLP-636,,MarTech Eng Sprint4: 4/23-5/ 7
+CLP-745,API: Implement Topic API providing mock data for one company,Engineering - Product,1,2025-04-17T08:44:46.602-0400,CLP-636,,MarTech Eng Sprint4: 4/23-5/ 7
+CLP-736,UI: Brand Resonance section,Engineering - Product,1,2025-04-17T08:31:30.914-0400,CLP-636,,MarTech Eng Sprint4: 4/23-5/ 7
+CLP-137,Construct Config File,Engineering - Product,1,2025-04-09T12:23:57.418-0400,CLP-75,,Engineer Sprint 2: 3/26 - 4/9
+CLP-765,Implement out-of-band quality check process for recommendations,Data Science,1,2025-04-22T13:09:37.950-0400,CLP-116,,Data Sprint 5: 5/7 - 5/21
+CLP-643,Add Loading Spinner,Engineering - Product,1,2025-04-09T09:47:28.975-0400,CLP-111,,Engineer Sprint 3:  4/9 - 4/23
+CLP-641,Application splash screen,Engineering - Product,1,2025-04-09T09:38:24.786-0400,CLP-6,,Engineer Sprint 3:  4/9 - 4/23
+CLP-929,Design: Explore Page Resonance Score,"Design, Product",1,2025-05-07T09:33:53.300-0400,CLP-781,,Design Sprint 5:  5/7 - 5/21
+CLP-711,Service: Implement Competitor Company,Engineering - Product,1,2025-04-15T09:53:26.388-0400,CLP-771,MarTech Eng Sprint4: 4/23-5/ 7,MarTech Eng Sprint3 4/9 - 4/23
+CLP-648,Resolve Sentiment Pipeline,Engineering - Product,1,2025-04-09T11:05:51.423-0400,CLP-75,,MarTech Eng Sprint3 4/9 - 4/23
+CLP-718,Service: Implement Competitor Product Brand,Engineering - Product,1,2025-04-15T09:53:32.172-0400,CLP-771,MarTech Eng Sprint4: 4/23-5/ 7,MarTech Eng Sprint3 4/9 - 4/23
+CLP-617,Add is_competitor to Company table,Engineering - Product,1,2025-04-09T12:23:58.179-0400,CLP-6,MarTech Eng Sprint2: 3/26-4/9,"MarTech Eng Sprint2: 3/26-4/9, MarTech Eng Sprint3 4/9 - 4/23"
+CLP-930,Design: Explore Page Competitor Topics,"Design, Product",1,2025-05-07T09:35:24.870-0400,CLP-781,,Design Sprint 5:  5/7 - 5/21
+CLP-931,Design: Explore Page Competitor Audiences,"Design, Product",1,2025-05-07T09:35:35.915-0400,CLP-781,,Design Sprint 5:  5/7 - 5/21
+CLP-777,Nicole: Clarvos Logo Creation + Leadership Approval,Design,1,2025-05-07T09:33:21.364-0400,CLP-249,,Design Sprint 5:  5/7 - 5/21
+CLP-936,Create Clarvos.com Sitemap,Design,1,2025-05-07T09:37:35.448-0400,CLP-10,,Design Sprint 5:  5/7 - 5/21
+CLP-820,Production Integration Support,Data Science,1,2025-05-07T17:38:58.764-0400,CLP-112,Data Sprint 6: 5/21 - 6/4,AIOps Sprint 6: 5/21 - 6/4
+CLP-1031,DBX annual contract setup,Engineering - Platform,1,2025-05-07T23:42:41.263-0400,CLP-1065,,Eng-PLAT Sprint 5: 5/7-5/21
+CLP-937,Create Draft Content for all Pages,Design,1,2025-05-07T09:38:49.243-0400,CLP-10,,Design Sprint 5:  5/7 - 5/21
+CLP-516,Create Resonance API Routes,Engineering - Product,1,2025-04-09T12:23:57.396-0400,CLP-112,,Engineer Sprint 2: 3/26 - 4/9
+CLP-782,DBX context area exploration + validation for resonance ,Engineering - Product,1,2025-04-22T00:46:26.777-0400,CLP-84,,MarTech Eng Sprint3 4/9 - 4/23
+CLP-132,Explore Data Relevancy Logic,Engineering - Product,1,2025-04-09T11:04:12.259-0400,CLP-75,,MarTech Eng Sprint3 4/9 - 4/23
+CLP-746,"API: Implement Resonance API providing mock data for single company, product",Engineering - Product,1,2025-04-17T08:44:46.603-0400,CLP-636,,MarTech Eng Sprint4: 4/23-5/ 7
+CLP-1023,Optimize and Reduce Cost on the Production Count Dashboard,Engineering - Platform,1,2025-04-09T15:29:16.881-0400,CLP-1065,,PLAT/OPS ENG 4/9 - 4/23
+CLP-1069,Tiktok Video: Frequent null text_data,Engineering - Platform,1,2025-04-09T11:20:46.253-0400,CLP-1068,PLAT/OPS ENG 3/26 - 4/9,"PLAT/OPS ENG 3/26 - 4/9, PLAT/OPS ENG 3/26 - 4/10"
+CLP-1030,Decommission EP layer Dev,Engineering - Platform,1,2025-04-09T16:12:22.441-0400,CLP-1065,,PLAT/OPS ENG 4/9 - 4/23
+CLP-1020,Stg workspace needs to enable the same compute instances as Dev and Prd,Engineering - Platform,1,2025-04-21T11:26:18.648-0400,CLP-1065,,PLAT/OPS ENG 4/9 - 4/23
+CLP-664,"Update ""Request a Demo"" link on Splash screen to point to marketing site",Engineering - Platform,1,2025-04-17T07:23:47.637-0400,CLP-634,MarTech Eng Sprint4: 4/23-5/ 7,
+CLP-946,Clarvos.com Hi-fi website designs,Design,1,2025-05-07T09:56:38.625-0400,CLP-7,,Design Sprint 6:  5/21 - 6/4
+CLP-941,Design: UI cleanup Explore Page,Design,1,2025-05-07T09:46:00.395-0400,CLP-781,,Design Sprint 5:  5/7 - 5/21
+CLP-935,Mali: Clarvos Logo Creation + Leadership Approval,Design,1,2025-05-07T09:34:28.076-0400,CLP-249,,Design Sprint 5:  5/7 - 5/21
+CLP-945,Clarvos.com Hosting Website Research,Design,1,2025-05-07T09:54:58.184-0400,CLP-7,,Design Sprint 5:  5/7 - 5/21
+CLP-740,UI: Integrate with Topics API for loading Topics,Engineering - Product,1,2025-04-17T08:44:46.601-0400,CLP-636,,MarTech Eng Sprint4: 4/23-5/ 7
+CLP-748,UI: Integrate with CommunityGroups API,Engineering - Product,1,2025-04-22T09:50:01.508-0400,CLP-636,,MarTech Eng Sprint4: 4/23-5/ 7
+CLP-732,Move navigation to TopNav,Engineering - Product,1,2025-04-17T10:47:07.917-0400,CLP-731,MarTech Eng Sprint4: 4/23-5/ 7,MarTech Eng Sprint3 4/9 - 4/23
+CLP-723,Align application terminology with product terminology where confusing,Engineering - Platform,1,2025-04-14T22:54:18.741-0400,,MarTech Eng Sprint4: 4/23-5/ 7,
+CLP-1026,Spike: BQ Reservation API usage,Engineering - Platform,1,2025-04-09T11:20:46.498-0400,CLP-1065,,PLAT/OPS ENG 3/26 - 4/9
+CLP-1029,Decommision EP layer Prod,Engineering - Platform,1,2025-04-09T11:20:46.461-0400,CLP-1065,,PLAT/OPS ENG 3/26 - 4/9
+CLP-813,EDA on Data Where Models Don't Agree,Data Science,1,2025-04-23T10:42:42.301-0400,CLP-351,,Data Sprint 4: 4/23 - 5/7
+CLP-837,Participate in 2-day design and requirements session,Design,1,2025-04-23T16:48:28.357-0400,,,Design Sprint 4: 4/23 - 5/7
+CLP-823,Design the interaction for clicking a Individual Community Group,Design,1,2025-04-23T11:41:16.329-0400,CLP-636,,Design Sprint 4: 4/23 - 5/7
+CLP-826,User Testing — Community Group Design,Design,1,2025-04-23T11:50:06.632-0400,CLP-636,,Design Sprint 4: 4/23 - 5/7
+CLP-825,Design the visual feedback for adding a community to your campaign on the hompage/all communities,Design,1,2025-04-23T11:39:12.848-0400,CLP-636,,Design Sprint 4: 4/23 - 5/7
+CLP-838,Participate in 2-day design and requirements session,Design,1,2025-04-23T16:50:55.877-0400,,,Design Sprint 4: 4/23 - 5/7
+CLP-140,Create Log Table for Context Area Runs,Engineering - AI Ops,1,2025-05-02T19:52:07.600-0400,CLP-75,,AIOps Sprint 7: 6/4 - 6/18
+CLP-870,Integrate Resonance Score into Context Area,Engineering - AI Ops,1,2025-05-02T20:54:47.916-0400,CLP-112,,AIOps Sprint 6: 5/21 - 6/4
+CLP-763,Implement DataBricks endpoint for on-demand recommendations,Data Science,1,2025-04-22T12:59:43.172-0400,CLP-116,,Data Sprint 4: 4/23 - 5/7
+CLP-839,Participate in 2-day design and requirements session,Design,1,2025-04-23T16:51:54.236-0400,,,Design Sprint 4: 4/23 - 5/7
+CLP-812,Generate Pairwise Agreement Proportions,Data Science,1,2025-04-23T10:35:57.265-0400,CLP-351,,Data Sprint 4: 4/23 - 5/7
+CLP-139,Create LLM Regex Helper PoC,Engineering - AI Ops,1,2025-05-02T19:50:53.657-0400,CLP-75,,AIOps Sprint 6: 5/21 - 6/4
+CLP-657,Work with Aaron on serving different LLMs in DBX,Data Science,1,2025-04-10T08:38:51.964-0400,CLP-351,,Data Sprint 3: 4/9 - 4/23
+CLP-783,Verify Topic Modelling in Resonance,Data Science,1,2025-04-22T11:27:09.374-0400,CLP-84,MarTech Eng Sprint4: 4/23-5/ 7,Data Sprint 4: 4/23 - 5/7
+CLP-670,Build Scaffold Code for LLM Spin Up/Tear Down,Data Science,1,2025-04-10T13:48:52.761-0400,CLP-351,,Data Sprint 3: 4/9 - 4/23
+CLP-810,Create Flat Tables for Benchmark Emotion Scores,Data Science,1,2025-04-23T10:29:18.037-0400,CLP-351,,Data Sprint 4: 4/23 - 5/7
+CLP-811,Generate Population Level Agreement Proportions,Data Science,1,2025-04-23T10:29:48.201-0400,CLP-351,,Data Sprint 4: 4/23 - 5/7
+CLP-773,Competitors Table Tab,Design,1,2025-04-21T13:31:52.236-0400,CLP-771,,Design Sprint 3: 4/9 - 4/23
+CLP-669,Product Component - prompt engineering on the Llama models in Resonance analyzer,Data Science,1,2025-04-10T13:42:11.769-0400,CLP-84,,Data Sprint 3: 4/9 - 4/23
+CLP-644,DBX Full Psychographics - Embed Author Documents,Data Science,1,2025-04-09T10:14:38.483-0400,CLP-85,,Data Sprint 3: 4/9 - 4/23
+CLP-658,Landing Page,Design,1,2025-04-10T11:22:30.347-0400,CLP-636,,Design Sprint 3: 4/9 - 4/23
+CLP-708,Enhancements to Competitor Views -- Threshold-Based UI Implementation,,1,2025-04-14T09:47:02.963-0400,CLP-84,,Data Sprint 3: 4/9 - 4/23
