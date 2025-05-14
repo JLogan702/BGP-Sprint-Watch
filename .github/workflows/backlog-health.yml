@@ -18,9 +18,9 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install dependencies
-        run: |
-          pip install -r requirements.txt
+- name: Install dependencies
+  run: |
+    pip install requests pandas matplotlib slack_sdk python-dotenv
 
       - name: Run backlog health report
         run: python sprint_watchdog/backlog_health_report.py
