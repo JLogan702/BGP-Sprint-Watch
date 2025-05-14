@@ -2,7 +2,7 @@ name: Weekly Backlog Health Report
 
 on:
   schedule:
-    - cron: '0 12 * * 1'  # Every Monday at 8AM ET
+    - cron: '0 12 * * 1'  # Every Monday at 8:00 AM ET
   workflow_dispatch:
 
 jobs:
@@ -10,27 +10,27 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: 📥 Checkout repo
         uses: actions/checkout@v3
 
-      - name: Set up Python
+      - name: 🐍 Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.11'
 
-     - name: Install dependencies
-       run: |
-       pip install requests pandas matplotlib slack_sdk python-dotenv
+      - name: 📦 Install dependencies (inline)
+        run: |
+          pip install requests pandas matplotlib slack_sdk python-dotenv
 
-      - name: Run backlog health report
+      - name: 🧠 Run backlog health report
         run: python sprint_watchdog/backlog_health_report.py
 
-      - name: Commit results
+      - name: 📤 Commit report output
         run: |
           git config user.name "Sprint Watchdog Bot"
           git config user.email "watchdog@clarvos.com"
           git add reports/backlog_health/*
-          git commit -m "📝 Auto-update backlog health report"
+          git commit -m "📈 Auto-update backlog health report"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
