@@ -2,7 +2,7 @@ name: Weekly Backlog Health Report
 
 on:
   schedule:
-    - cron: '0 12 * * 1'  # Every Monday at 8:00 AM ET
+    - cron: '0 12 * * 1'
   workflow_dispatch:
 
 jobs:
