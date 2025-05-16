@@ -1,0 +1,40 @@
+name: 📊 Backlog Health Report
+
+on:
+  schedule:
+    - cron: "0 12 * * 5"  # Every Friday at 8 AM EST (12 PM UTC)
+  workflow_dispatch:
+
+jobs:
+  backlog-health:
+    runs-on: ubuntu-latest
+
+    env:
+      EMAIL: ${{ secrets.EMAIL }}
+      API_TOKEN: ${{ secrets.API_TOKEN }}
+      JIRA_DOMAIN: ${{ secrets.JIRA_DOMAIN }}
+      SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+      SLACK_CHANNEL_ID: ${{ secrets.SLACK_CHANNEL_ID }}
+
+    steps:
+      - name: 📥 Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: 📦 Install Dependencies
+        run: pip install pandas matplotlib python-dotenv slack_sdk requests
+
+      - name: 🚀 Run Backlog Health Report
+        run: python sprint_watchdog/backlog_health_report.py
+
+      - name: 📝 Commit Results
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add reports/backlog_health/*
+          git commit -m "📊 Auto-update: backlog health report [skip ci]" || echo "Nothing to commit"
+          git push
