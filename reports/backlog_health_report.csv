@@ -1,0 +1,23 @@
+key,summary,status,component,assignee,type
+CLP-1124,BE: Org DTO cleanup,New,Engineering - Product,Unassigned,Story
+CLP-1123,FE: Org DTO cleanup,New,Engineering - Product,Unassigned,Story
+CLP-1113,UI: Add Subcategory dropdown for Company and Competitor Company,Grooming,Engineering - Product,Murad Erkin,Story
+CLP-1112,UI: Finish implementation of edit org,Grooming,Engineering - Product,Murad Erkin,Story
+CLP-1105,API: PUT strategy details (generation),New,Engineering - Product,Unassigned,Story
+CLP-1101,API: GET strategy by ID,New,Engineering - Product,Aaron Boyarsky,Story
+CLP-1081,Finalize Aggregation Methodology,New,Data Science,Ian Vogt,Story
+CLP-886,UI: Download Strategy PDF,Grooming,Engineering - Product,Unassigned,Story
+CLP-870,Integrate Resonance Score into Context Area,New,Engineering - AI Ops,Aaron Medina,Story
+CLP-868,Create DAB to Deploy Model,New,Engineering - AI Ops,Aaron Medina,Story
+CLP-853,Update TopNav with updated tabs for subpages,Grooming,Engineering - Product,Unassigned,Story
+CLP-849,Model Data for Aggregate Backend,New,Engineering - AI Ops,Matthew Michal,Story
+CLP-822,Investigate MoE for Streamlining Onboarding,New,Data Science,Tony Hinrichs,Story
+CLP-820,Production Integration Support,New,Data Science,Zihao Wang,Story
+CLP-817,Provide a Technical Release Proposal,New,Engineering - AI Ops,Aaron Medina,Spike
+CLP-814,Model Data for Backend DB,Grooming,Engineering - AI Ops,Jennifer Oates,Story
+CLP-794,Integrate Cluster Models,New,Engineering - AI Ops,Aaron Medina,Story
+CLP-792,Explore New Databricks Apps Functionality for UI,New,Engineering - AI Ops,Aaron Medina,Spike
+CLP-1070,Create views for application level queries,New,Engineering - Platform,Mike Livshutz,Story
+CLP-635,placeholder: Copy Finalization Across UX ,New,Product,Unassigned,Epic
+CLP-135,DAB Deployment,Grooming,Engineering - AI Ops,Aaron Medina,Story
+CLP-96,"Hosting, CDN, Domains",Grooming,Engineering - Product,Trey Perry,Story
